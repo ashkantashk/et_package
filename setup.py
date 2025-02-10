@@ -13,7 +13,6 @@ setup(
         'matplotlib',
         'scipy',
         'bokeh',
-        'datetime'
-        
+        'datetime'        
     ],
 )
