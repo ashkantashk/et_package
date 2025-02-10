@@ -12,7 +12,6 @@ setup(
         'I2MC',
         'matplotlib',
         'scipy',
-        'bokeh',
-        'datetime'        
+        'bokeh'
     ],
 )
