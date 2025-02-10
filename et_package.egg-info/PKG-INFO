@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: et_package
+Version: 0.1
+Summary: A package for ET_Func with gaze data processing
+Author: ashta
+Requires-Dist: pandas
+Requires-Dist: numpy==1.26.4
+Requires-Dist: I2MC
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: math
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

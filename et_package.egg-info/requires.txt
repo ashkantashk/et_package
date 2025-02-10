@@ -1,0 +1,6 @@
+pandas
+numpy==1.26.4
+I2MC
+matplotlib
+scipy
+math
